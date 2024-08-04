@@ -1,0 +1,8 @@
+langchain==0.2.12
+langchain_community==0.2.11
+langchain_core==0.2.28
+langchain_openai==0.1.20
+python-dotenv==1.0.1
+streamlit==1.37.0
+chromadb==0.3.29
+beautifulsoup==4.12.2
