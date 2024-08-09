@@ -113,4 +113,4 @@ else:
 # chunks are passed through the embeddings model -> Embeddings convert these chunks into numerical representations (0's and 1's) -> 
 # store it in vector -> convert user's query to do the same thing -> 
 # then perform the semantic search using vector data to find the data similar to the query -> 
-# send the returned chunk into llm -> find the one that matched the chunk
+# send the returned chunk into llm -> find the one that matched the chunk (in the vector store)
